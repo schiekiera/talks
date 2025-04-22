@@ -2,7 +2,7 @@
 
 ## 2025
 
-### 2025-04-22
+### 2025-04-08
 
 -  **4th German Psychotherapy Conference**: [Examining the prevalence of positive results and research groups’
 scientific productivity in a German clinical psychology sample](https://github.com/schiekiera/talks/blob/main/pdfs/presentation_DPK_2025_schiekiera_positive_results_in_clinical_psychology.pdf)
